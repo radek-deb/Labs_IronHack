@@ -114,3 +114,54 @@ Lowest priced ordder:
 | religious                       |
 | games_consoles                  |
     
+    
+ **6. From the closed_deals table, sum the declared_monthly_revenue for duplicate row values in business_segment and find the 3 business segments with the highest declared monthly revenue (of those that declared revenue).**
+   
+   Below are 3 business segments with the highest declared monthly revenue
+| business_segment                | sum(declared_monthly_revenue) |
+|---------------------------------|-------------------------------|
+| construction_tools_house_garden | 50695006                      |
+| phone_mobile                    | 8000000                       |
+| home_decor                      | 710000                        |
+  
+  
+**7. From the order_reviews table, find the total number of distinct review score values.**
+  Total number of review score values:
+  
+| Total review number |
+|---------------------|
+| 99173               |
+  
+  
+  Total number of review score values by score:
+  
+    
+| review_score | count(DISTINCT review_id) |
+|--------------|---------------------------|
+| 5            | 57000                     |
+| 4            | 19062                     |
+| 3            | 8203                      |
+| 2            | 3196                      |
+| 1            | 11712                     |
+  
+**8. In the order_reviews table, create a new column with a description that corresponds to each number category for each review score from 1 - 5, then find the review score and category occurring most frequently in the table.**
+
+Table with new column
+  
+| review_score | count(review_score) | Description_review |
+|--------------|---------------------|--------------------|
+| 5            | 57420               | Very Good!         |
+| 4            | 19200               | Good               |
+| 1            | 11858               | Terrible           |
+| 3            | 8287                | Acceptable         |
+| 2            | 3235                | Bad                |
+  
+  Rows in Table are ordered so the most frequent category is Very Good!
+  
+**9. From the order_reviews table, find the review value occurring most frequently and how many times it occurs.**
+The most frequently occurs review_score of 5. Its occurance is equal to 57420.
+  
+| review_score | Frequency | Description_review |
+|--------------|-----------|--------------------|
+| 5            | 57420     | Very Good!         |
+  
