@@ -2,7 +2,7 @@ This is my solution for Lab 21 MySQL Select
   
    
     
-** Challange 1 **
+**Challenge 1**
   
   Answer:
   
@@ -36,7 +36,7 @@ This is my solution for Lab 21 MySQL Select
 
   
       
-** Challange 2 **
+**Challenge 2 **
   
   Answer:
  | Author_ID   | Last Name      | First Name | Num_pub | Publisher            |
@@ -63,7 +63,7 @@ This is my solution for Lab 21 MySQL Select
    
    
     
-** Challange 3 **
+**Challenge 3 **
   
   Answer:
   
@@ -74,7 +74,7 @@ This is my solution for Lab 21 MySQL Select
 | 722-51-5454 | DeFrance  | Michel     | 22246       |
   
     
-** Challange 4 **
+**Challenge 4 **
   
   Answer:
   
