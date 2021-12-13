@@ -28,9 +28,11 @@ Then I would use those functions to create the logic of the game.  Below is prop
   
   
 ### Logic of Tic-Tac-Toe game proposed by Radek
-- 1. I will create an empty board game and display it. 
-- 2. I will ask who wants to start 'X' or 'O'
-- 3. I will aks player for input and the place where it should be done. At the same pont I would use while loop to check if the input was valid and if the proposed place is free.
-- 4. I will display the board with the user input 
-- 5. I will check for the win and if the board is full.
-- 
+1. I will create an empty board game and display it. 
+2. I will ask who wants to start 'X' or 'O'
+3. I will aks player for input and the place where it should be done. At the same pont I would use while loop to check if the input was valid and if the proposed place is free.
+4. I will display the board with the user input 
+5. I will check for the win and if the board is full.
+6. If there is no win and there are still free places on the board I will continue playing, but first I will change the player.
+7. At the very end, after the game is over I will ask if player wants to play again. If yes I will reatart the board and start the game if not,  I will exit the game. 
+ 
