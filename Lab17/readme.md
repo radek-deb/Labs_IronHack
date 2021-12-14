@@ -1,7 +1,9 @@
 ## Lab17: Understanding Other's Code
   
   
-I was assigned the number 16, so the Tic-Tac-Toe game. 
+I was assigned the number 16, so the Tic-Tac-Toe game. I got the original code from this repo:  
+https://github.com/Nesmad/Tic-Tac-Toe-Game-  
+
 According to the presented code. I understand the logic/workflow of the game as: 
 
   ### Logic of Tic-Tac-Toe game presennted in the code:
