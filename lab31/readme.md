@@ -27,7 +27,9 @@
 
 The methods were invesitgated not in the alphabetical order, as it was easier to go thorugh them differently. For example, as a lot of methods are based on target encoder or give similar results, I firslty invesitgated this method.
    
-    The second point is that the last three methods (Wrappers, Quantile Encoder and Summary Encoder) were not present in the category encoders module thus I was not able to study them. 
+ The second point is that the last three methods (Wrappers, Quantile Encoder and Summary Encoder) were not present in the category encoders module thus I was not able to study them. 
+     
+
     
     
 | Method                                 | Libary            | Code                                                                                                                                         | Result Encode                                                                                                                                                                                                                                                                                                                           |
