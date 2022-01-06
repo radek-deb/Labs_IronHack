@@ -1,0 +1,1 @@
+This is a jupyter notebook with my solutions to the Lab06 | Confidence-Intervals
