@@ -20,13 +20,11 @@ a. Colorado
 4. If 2013 Sales numbers were expected to increase by 50% in the following year, what would be the total
 estimated sales for the Consumer Segment in 2014?
 
-a. $4,278,540
+
 
 b. $816,999
 
-c. $2,752,823
 
-d. $802,365
 
 5. In which Region do all Product Categories fall beneath the overall average profit?
 
@@ -42,11 +40,6 @@ b. Chairs & Chairmats
 
 7. Find the customer with the lowest overall profit. What is his/her profit ratio?
 
-a. 2.35%
-
-b. 1%
-
-c. -17.54%
 
 d. -771.39%
 
@@ -80,15 +73,10 @@ c. $188,552
 12.  Create a histogram showing the number of Sales using Sales Bins of $1,000. Which bins have profit ratios
 (profit as a percentage of sales) of more than 25%? (Select all that apply)
 
-a. 1,000
-
-b. 3,000
 
 c. 7,000
 
 d. 8,000
-
-e. 10,000
 
 f. 11,000
 
