@@ -81,3 +81,14 @@ d. 8,000
 f. 11,000
 
 g. 18,000
+
+
+### Part 2
+
+**moving bubble chart**
+
+I made a graph of orders vs. profit for each state. The colors of bubles is assosciated with the region of the state, and the size of the bubble is associated to the profit of the state. The animation is done for each year so they move between yeare 2010 and 2013.
+
+**filters**
+
+I created a grapg of average profits and average shipping costs for product category and order priority, with the possibility of filtering by product category, orger priority and customer segment.
