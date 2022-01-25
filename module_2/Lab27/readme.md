@@ -1,5 +1,7 @@
 ## Lab27 | Advanced Tableau
 
+[Link to Tableau Public](https://public.tableau.com/app/profile/radek7851/viz/Lab27_Advanced_Tableau/Part2-filters?publish=yes)
+
 ### Part 1
 
 Questions:
