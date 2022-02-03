@@ -10,7 +10,7 @@ Jupter notebook: challenge-1
 
 This is the result that I got from TensorFlow Playground:
 
-![Challenge2](Challeng_2.png)
+![Challenge_2](Challenge_2.png)
 
 ### Challenge 3:
 
